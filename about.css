@@ -1,0 +1,26 @@
+*{
+    margin: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about{
+   text-align: center;
+   justify-content: center;
+   gap: 200px;
+   font: large;
+}
+.about h1{
+    color: aliceblue;
+    font-weight: bolder;
+}
+.about span{
+    color: azure;
+    text-size-adjust: 30px;
+    font-size: larger;
+    line-height: 40px;
+}
+body{
+    background-image: url('./images/billy-huynh-W8KTS-mhFUE-unsplash\ \(1\).jpg');
+    text-align: center;
+    justify-content: center;
+
+}
